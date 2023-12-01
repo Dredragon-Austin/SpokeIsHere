@@ -32,7 +32,7 @@ body {
     background-color: #fff;
     color: var(--text2);
     line-height: 1.5rem;
-    cursor: url(/img/Logo/SpokeIcon.png), auto;
+    cursor: url(img/Logo/SpokeIcon.png), auto;
 }
 
 .head {
@@ -100,7 +100,7 @@ nav a {
     -moz-animation: glow 1s ease-in-out infinite alternate;
     animation: glow 1s ease-in-out infinite alternate;
     width: fit-content;
-    cursor: url(/img/Logo/CoolSpoke.png), auto;
+    cursor: url(img/Logo/CoolSpoke.png), auto;
 
 }
 
